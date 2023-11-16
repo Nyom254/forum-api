@@ -2,7 +2,7 @@ class SayHiHandler {
   async getSayHiHandler() {
     return {
       status: 'success',
-      data: 'hiii!!',
+      data: 'hi!!',
     };
   }
 }
